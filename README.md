@@ -1,6 +1,9 @@
 # SocialEngineer 博客中文翻译
 
-> 原文：[SocialEngineer Blog](https://www.social-engineer.org/)
+> 原文：
+> 
+> +   [SocialEngineerOrg Blog](https://www.social-engineer.org/)
+> +   [SocialEngineerCom Blog](https://www.social-engineer.com/)
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
