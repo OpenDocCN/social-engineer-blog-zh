@@ -15,13 +15,13 @@
 
 首先，令我们惊喜的是有多少女性实际上参加了投票。
 
-[![](img/5a379107563d702020d741f4e11cba3b.png "votersgender")T2】](https://www.social-engineer.org/polls/women-and-social-engineering/attachment/votersgender/)
+[![](img/5a379107563d702020d741f4e11cba3b.png "votersgender")](https://www.social-engineer.org/polls/women-and-social-engineering/attachment/votersgender/)
 
 63%的选民是女性。这对我们来说是一个非常有趣的事实。在之前的讨论中，我们很难找到愿意讨论这个话题的女性。看到超过 60%的女性投票令人鼓舞，尤其是下一个细节。
 
 每个选民在[安全](https://www.social-engineer.org/framework/general-discussion/ "Women in SE")中认识多少女性？
 
-[![](img/b317a088bf77b1483cec88006f3c57d8.png "WomeninSec")T2】](https://www.social-engineer.org/polls/women-and-social-engineering/attachment/womeninsec/)
+[![](img/b317a088bf77b1483cec88006f3c57d8.png "WomeninSec")](https://www.social-engineer.org/polls/women-and-social-engineering/attachment/womeninsec/)
 
 72%的选民只认识 1-9 名女性安全人员。令人震惊的是，21%的人不认识任何女性安保人员……从 1%到 3%不等，只有 1.2%的人认识 51 岁以上的女性安保人员。我们还发现有趣的是有多少男人组成了这组特殊的统计数据:
 
@@ -35,7 +35,7 @@
 
 这并不奇怪——只有 22%的投票者认为男性更诚实，而高达 77%的投票者认为女性天生更诚实。
 
-[![](img/92a6b43844282a1855d5ad7c45cfc673.png "MoreHonest")T2】](https://www.social-engineer.org/polls/women-and-social-engineering/attachment/morehonest/)
+[![](img/92a6b43844282a1855d5ad7c45cfc673.png "MoreHonest")](https://www.social-engineer.org/polls/women-and-social-engineering/attachment/morehonest/)
 
 现在所有这些都指向一条路，那就是谁被选为最擅长社会工程的人。在之前的播客讨论中，我们甚至从女性那里听到，许多人认为男性更擅长撒谎。到目前为止的统计数据似乎表明了这些事实…女性被认为更诚实，很多男性在安全方面不认识很多女性…
 
@@ -43,7 +43,7 @@
 
 女性获得梦寐以求的最佳社会工程奖可能不足为奇，但让你震惊的是…
 
-[![](img/19ad70bcac236913daacd0501665aa80.png "BetteratSE")T2】](https://www.social-engineer.org/polls/women-and-social-engineering/attachment/betteratse-3/)
+[![](img/19ad70bcac236913daacd0501665aa80.png "BetteratSE")](https://www.social-engineer.org/polls/women-and-social-engineering/attachment/betteratse-3/)
 
 女性以惊人的 86%以上的优势胜出！86%参与投票的人表示，女性天生更倾向于社会工程！这对我们来说是一个巨大的统计数字。
 

@@ -6,7 +6,7 @@
 
 当我坐下来开始浏览网站，听我们的一些客户告诉我，当他们来到网站时，他们的老板很“紧张”，心想，“这个人是好是坏？”，我意识到是时候从头开始重做网站了。
 
-[![Social-Engineer.Org - Reborn and Recreated](img/2504424b4c1a97f12268d2697a696742.png)T2】](https://www.social-engineer.org/wp-content/uploads/2014/04/seorg-reborn.png)
+[![Social-Engineer.Org - Reborn and Recreated](img/2504424b4c1a97f12268d2697a696742.png)](https://www.social-engineer.org/wp-content/uploads/2014/04/seorg-reborn.png)
 
 ### **开发过程**
 

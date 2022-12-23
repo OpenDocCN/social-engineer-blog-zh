@@ -12,7 +12,7 @@
 
 《生命》在这次比赛中获得了超过 62%的第五名(爱它)选票。你的获奖设计是:
 
-[![](img/0801835ee381ed3c3631ae48e712a401.png "1403-armed-dangerous-brain")T2】](https://www.social-engineer.org/social-engineering/too-cheap-to-hire-a-designer-contest-winner/attachment/1403-armed-dangerous-brain/)
+[![](img/0801835ee381ed3c3631ae48e712a401.png "1403-armed-dangerous-brain")](https://www.social-engineer.org/social-engineering/too-cheap-to-hire-a-designer-contest-winner/attachment/1403-armed-dangerous-brain/)
 
 正如承诺的那样，获胜的团队将获得一些 schwag 作为他们的赢家套餐的一部分！祝贺伦纳德、丹和汤姆集思广益，做出了一个伟大的设计，并获得了投票！
 

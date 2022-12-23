@@ -2,7 +2,7 @@
 
 > 原文：<https://www.social-engineer.com/scarcity-social-engineer/>
 
-[![Scarcity](img/ea27b8a36d3408bb0f04e84ac7ecaf42.png)T2】](https://www.social-engineer.com/wp-content/uploads/2014/01/Scarcity.jpg)
+[![Scarcity](img/ea27b8a36d3408bb0f04e84ac7ecaf42.png)](https://www.social-engineer.com/wp-content/uploads/2014/01/Scarcity.jpg)
 
 为了理解稀缺对社会工程师的影响，让我们先来看看社会心理学中的概念。它被描述为人们倾向于对供应不足的资源赋予更高的价值。营销人员经常试图利用这种现象，在他们的销售和特价商品中宣传稀缺的概念，这种策略成功的一个很好的例子是黑色星期五的疯狂。2013 年黑色星期五，1.41 亿人购物——美国人口约为 3.15 亿。
 

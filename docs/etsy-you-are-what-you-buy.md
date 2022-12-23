@@ -21,7 +21,7 @@ Etsy 是一个类似于 Ebay 的网站，但面向喜欢出售独特而艺术的
 
 经过一番搜索后，你发现一家商店似乎卖了很多药品，烟斗和类似的物品。
 
-[![Smoking Supplies Found on Etsy](img/941a44094f537a59d8afb8c22473dc81.png "Screen shot 2011-03-15 at 9.28.07 AM")T2】](https://www.social-engineer.org/social-engineering/etsy-you-are-what-you-buy/attachment/screen-shot-2011-03-15-at-9-28-07-am/)
+[![Smoking Supplies Found on Etsy](img/941a44094f537a59d8afb8c22473dc81.png "Screen shot 2011-03-15 at 9.28.07 AM")](https://www.social-engineer.org/social-engineering/etsy-you-are-what-you-buy/attachment/screen-shot-2011-03-15-at-9-28-07-am/)
 
 接下来，我所做的就是点击用户名，令人惊讶的是，我看到了他的所有信息:
 DankDezigns
@@ -34,7 +34,7 @@ DankDezigns
 
 把他的全名输入谷歌，会在 Etsy 网站上弹出一个链接列表，其中一个叫做他的“圈子”。去那里向我们展示了他的朋友圈，似乎也卖毒品使用用品，管道和其他此类物品。
 
-[![The Inner Circle of Social Engineering](img/9be259e54754eae2aea536f1f7053f97.png "Screen shot 2011-03-15 at 9.36.59 AM")T2】](https://www.social-engineer.org/social-engineering/etsy-you-are-what-you-buy/attachment/screen-shot-2011-03-15-at-9-36-59-am/)
+[![The Inner Circle of Social Engineering](img/9be259e54754eae2aea536f1f7053f97.png "Screen shot 2011-03-15 at 9.36.59 AM")](https://www.social-engineer.org/social-engineering/etsy-you-are-what-you-buy/attachment/screen-shot-2011-03-15-at-9-36-59-am/)
 
 回到他的销售页面，你也可以点击标签为:“[查看谁最喜欢这家店](https://www.etsy.com/hearts_me.php?user_id=12486571)”的链接
 
@@ -42,11 +42,11 @@ DankDezigns
 
 点击其中任何一个都会引导你走上同样的道路:
 
-[![The Information SUPER highway](img/418c94c4a2c97042101cffd92094c7a1.png "Screen shot 2011-03-15 at 10.18.29 AM")T2】](https://www.social-engineer.org/social-engineering/etsy-you-are-what-you-buy/attachment/screen-shot-2011-03-15-at-10-18-29-am/)
+[![The Information SUPER highway](img/418c94c4a2c97042101cffd92094c7a1.png "Screen shot 2011-03-15 at 10.18.29 AM")](https://www.social-engineer.org/social-engineering/etsy-you-are-what-you-buy/attachment/screen-shot-2011-03-15-at-10-18-29-am/)
 
 只在谷歌上搜索她的名字和昵称:
 
-[![Google Remembers All](img/f248ba3802030538ee59f10c740b84c9.png "Screen shot 2011-03-15 at 10.19.28 AM")T2】](https://www.social-engineer.org/social-engineering/etsy-you-are-what-you-buy/attachment/screen-shot-2011-03-15-at-10-19-28-am-2/)
+[![Google Remembers All](img/f248ba3802030538ee59f10c740b84c9.png "Screen shot 2011-03-15 at 10.19.28 AM")](https://www.social-engineer.org/social-engineering/etsy-you-are-what-you-buy/attachment/screen-shot-2011-03-15-at-10-19-28-am-2/)
 
 网站、博客、推特、Linkedin、脸书——天啊！
 

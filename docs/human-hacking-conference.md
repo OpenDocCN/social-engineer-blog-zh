@@ -2,9 +2,9 @@
 
 > 原文：<https://www.social-engineer.org/event-updates/sevillage/human-hacking-conference/>
 
-[![The Human Hacking Conference](img/74c939178dbe47c9e74add5bc6398221.png)T2】](http://sevillage.org)
+[![The Human Hacking Conference](img/74c939178dbe47c9e74add5bc6398221.png)](http://sevillage.org)
 
-[![](img/c62a6b2b87787b07675b290d3075ce15.png)T2】](https://www.sevillage.org/)
+[![](img/c62a6b2b87787b07675b290d3075ce15.png)](https://www.sevillage.org/)
 
 曾经[被联邦调查局和美国银行业](https://www.computerworld.com/article/2519699/fbi-sought-data-on-defcon--social-engineering--contest.html)标记为潜在的国家安全威胁，[社会工程村(SEVillage)](https://www.sevillage.org/organizers/) 呈现了这种前所未有的体验，人类黑客大会，现在被认为是安全行业的基石教育活动，并被美国顶级公司和执法机构所寻求。
 

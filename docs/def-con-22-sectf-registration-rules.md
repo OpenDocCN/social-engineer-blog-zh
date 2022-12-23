@@ -72,11 +72,11 @@
 
 今年的 SECTF 由这些令人惊叹的公司赞助:
 
-[![dimensional-logo-final](img/6af4e58692c30beb88b0a4ce19ecf8ca.png)T2】](http://wombatsecurity.com)
+[![dimensional-logo-final](img/6af4e58692c30beb88b0a4ce19ecf8ca.png)](http://wombatsecurity.com)
 
-[![Basic RGB](img/774f5ffb633fc54d6e9a663c0fc9a6a8.png)T2】](http://www.pindropsecurity.com)
+[![Basic RGB](img/774f5ffb633fc54d6e9a663c0fc9a6a8.png)](http://www.pindropsecurity.com)
 
-[![TS-Emblem-Logo-Final-RGB-300dpi](img/371fdc880b5bd9614e9ec57be8b91901.png)T2】](https://www.trustedsec.com)
+[![TS-Emblem-Logo-Final-RGB-300dpi](img/371fdc880b5bd9614e9ec57be8b91901.png)](https://www.trustedsec.com)
 
 如果你能遵守以上所有要求，并认为自己有成为成功的社会工程师的技能，请在下面注册:
 

@@ -10,7 +10,7 @@
 
 首先请注意，这个网站看起来和感觉上都是合法的。所有正确的标志，所有正确的图形。然后诱饵来了:
 
-[![](img/790e71b15e42173292e1f7bd77ebdd09.png "The Bait")T2】](https://www.social-engineer.org/interesting-se-articles/99-hp-tablets-social-engineering-scams-or-a-real-deal/attachment/screen-shot-2011-08-23-at-2-02-04-pm/)
+[![](img/790e71b15e42173292e1f7bd77ebdd09.png "The Bait")](https://www.social-engineer.org/interesting-se-articles/99-hp-tablets-social-engineering-scams-or-a-real-deal/attachment/screen-shot-2011-08-23-at-2-02-04-pm/)
 
 惠普平板电脑的售价为 49 美元！有多少人会这么快点击？有多少人想要确保他们不会像以前那样错过交易？
 
@@ -75,7 +75,7 @@ WHOIS 查找时间为 2011 年 8 月 23 日 18:24:26
 
 是的，最后一点是，如果你试图以 49 美元的价格购买 pad。
 
-[![](img/c77da4d526a3d3dd5ecb52e489b61803.png "Rick Rolled")T2】](https://www.social-engineer.org/interesting-se-articles/99-hp-tablets-social-engineering-scams-or-a-real-deal/attachment/screen-shot-2011-08-23-at-2-15-35-pm/)
+[![](img/c77da4d526a3d3dd5ecb52e489b61803.png "Rick Rolled")](https://www.social-engineer.org/interesting-se-articles/99-hp-tablets-social-engineering-scams-or-a-real-deal/attachment/screen-shot-2011-08-23-at-2-15-35-pm/)
 
 里克·罗尔！！！当然，是谁建立了这个页面，这只是一个玩笑，并没有恶意…
 

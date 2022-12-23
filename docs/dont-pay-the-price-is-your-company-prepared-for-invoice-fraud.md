@@ -6,7 +6,7 @@
 
 现在想象一下这次攻击的反面。恶意攻击者已经对您的公司进行了研究。通过开源智能(OSINT ),他们已经找到了与贵公司合作的供应商。他们利用这些信息制作一封非常有说服力的网络钓鱼邮件。他们收到确认，帐户上的银行被更改为攻击者拥有的银行。现在他们坐下来等你支付最近的发票。他们甚至会给你寄一张他们自己特制的发票。这个狡猾的发票欺诈的例子并不牵强，事实上 ， 这是你的公司可能面临的事情，直到它已经发生才知道。
 
-![Is Your Company Prepared for Invoice Fraud?](img/ef1ad06b90e6ad63e42cb564647c380e.png "Don't Pay the Price: Is Your Company Prepared for Invoice Fraud?")T2】
+![Is Your Company Prepared for Invoice Fraud?](img/ef1ad06b90e6ad63e42cb564647c380e.png "Don't Pay the Price: Is Your Company Prepared for Invoice Fraud?")
 
 ### 这是什么？
 

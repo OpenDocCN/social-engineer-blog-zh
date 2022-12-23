@@ -22,7 +22,7 @@
 
 但有一件好事是，今年我们决定得到摊位宝贝…
 
-[![06-Thursday-SE-BoothBabe](img/08d73eddf26db3d74b78c7fa78dde26f.png)T2】](https://www.social-engineer.org/general-blog/def-con-22-sevillage-2-0/attachment/06-thursday-se-boothbabe/)
+[![06-Thursday-SE-BoothBabe](img/08d73eddf26db3d74b78c7fa78dde26f.png)](https://www.social-engineer.org/general-blog/def-con-22-sevillage-2-0/attachment/06-thursday-se-boothbabe/)
 
 你怎么想呢?
 
@@ -56,7 +56,7 @@ DEF CON 决定在周四开放，这是一个好主意，因为排队时间长达
 
 这些只是我们从 SECTF 中获得的一些图像，其中一个更常见的图像涉及外部:
 
-[![17-Friday-SECTF-Line](img/0bab2fb3afbd988df9b93183a20be46f.png)T2】](https://www.social-engineer.org/general-blog/def-con-22-sevillage-2-0/attachment/17-friday-sectf-line/)
+[![17-Friday-SECTF-Line](img/0bab2fb3afbd988df9b93183a20be46f.png)](https://www.social-engineer.org/general-blog/def-con-22-sevillage-2-0/attachment/17-friday-sectf-line/)
 
 房间里挤满了人，人们排着长队想进去……有时要排 45 分钟以上。
 
@@ -68,7 +68,7 @@ DEF CON 决定在周四开放，这是一个好主意，因为排队时间长达
 
 我们的演讲从周五的布伦特和蒂姆开始:
 
-[![28-Friday-TimandBrent](img/8d1890299ecfc9771262f8936ac4c47b.png)T2】](https://www.social-engineer.org/general-blog/def-con-22-sevillage-2-0/attachment/28-friday-timandbrent/)
+[![28-Friday-TimandBrent](img/8d1890299ecfc9771262f8936ac4c47b.png)](https://www.social-engineer.org/general-blog/def-con-22-sevillage-2-0/attachment/28-friday-timandbrent/)
 
 接下来是我们的好朋友和总是娱乐大众的大卫·肯尼迪:
 
@@ -76,11 +76,11 @@ DEF CON 决定在周四开放，这是一个好主意，因为排队时间长达
 
 周六，我们也有一个完整的阵容，首先是放松和凉爽的 Jayson Street:
 
-[![21-Friday-JaysonStreet](img/fc6c236e486677552a3f3146086db57e.png)T2】](https://www.social-engineer.org/general-blog/def-con-22-sevillage-2-0/attachment/21-friday-jaysonstreet/)
+[![21-Friday-JaysonStreet](img/fc6c236e486677552a3f3146086db57e.png)](https://www.social-engineer.org/general-blog/def-con-22-sevillage-2-0/attachment/21-friday-jaysonstreet/)
 
 其次是克里斯:
 
-[![37-Saturday-ChrisSpeech](img/308fcabeedc7940bb560bee4d433eea8.png)T2】](https://www.social-engineer.org/general-blog/def-con-22-sevillage-2-0/attachment/37-saturday-chrisspeech/)
+[![37-Saturday-ChrisSpeech](img/308fcabeedc7940bb560bee4d433eea8.png)](https://www.social-engineer.org/general-blog/def-con-22-sevillage-2-0/attachment/37-saturday-chrisspeech/)
 
 克里斯一登上“舞台”，就被告知 SECTF 是今年的黑章活动。那确实是一个令人兴奋的演讲开始方式。****T3】****
 
@@ -96,7 +96,7 @@ DEF CON 决定在周四开放，这是一个好主意，因为排队时间长达
 
 挤满了人的房间很快变成了…
 
-[![44-Saturday-SEPartySetUp](img/715a1a21b99907b8a526c2fd68f26993.png)T2】](https://www.social-engineer.org/general-blog/def-con-22-sevillage-2-0/attachment/44-saturday-separtysetup/)
+[![44-Saturday-SEPartySetUp](img/715a1a21b99907b8a526c2fd68f26993.png)](https://www.social-engineer.org/general-blog/def-con-22-sevillage-2-0/attachment/44-saturday-separtysetup/)
 
 开阔的空间，然后…
 
@@ -110,11 +110,11 @@ DEF CON 决定在周四开放，这是一个好主意，因为排队时间长达
 
 周六也开始了第四节。今年是伟大的一年。比以往任何时候都多的团队，有史以来最难的 CTF，以及来自 Qualys 和 DEF CON 的支持，使孩子们更容易参加 DEF CON。今年的主题是“谁催款”,孩子们被派去使用他们的批判性思维和社会工程技能解决一个公司犯罪。****T3】****
 
- **[![29-Sat-SECTF4KidsThanks](img/4d1250cdc65e0987044979328bf218de.png)T2】](https://www.social-engineer.org/general-blog/def-con-22-sevillage-2-0/attachment/29-sat-sectf4kidsthanks/)
+ **[![29-Sat-SECTF4KidsThanks](img/4d1250cdc65e0987044979328bf218de.png)](https://www.social-engineer.org/general-blog/def-con-22-sevillage-2-0/attachment/29-sat-sectf4kidsthanks/)
 
 今年的团队是惊人的，我们骄傲的成功故事都是关于阿什利的，我们在 DEF CON 之前写过他。
 
-[![47-Sunday-Ashley](img/fc695cdc9a17381fa0e0df58c9ca4a19.png)T2】](https://www.social-engineer.org/general-blog/def-con-22-sevillage-2-0/attachment/47-sunday-ashley/)
+[![47-Sunday-Ashley](img/fc695cdc9a17381fa0e0df58c9ca4a19.png)](https://www.social-engineer.org/general-blog/def-con-22-sevillage-2-0/attachment/47-sunday-ashley/)
 
 是的，她穿着 Tardis。🙂
 
@@ -126,11 +126,11 @@ DEF CON 决定在周四开放，这是一个好主意，因为排队时间长达
 
 SEVillage 最初是一个来这里讨论、玩耍和参与所有社会工程的地方。一直都很平静吗？
 
-[![42-Saturday-Michele&ChrisFighting](img/79cc204ca5a5a373da2464f92c272157.png)T2】](https://www.social-engineer.org/general-blog/def-con-22-sevillage-2-0/attachment/42-saturday-michelechrisfighting/)
+[![42-Saturday-Michele&ChrisFighting](img/79cc204ca5a5a373da2464f92c272157.png)](https://www.social-engineer.org/general-blog/def-con-22-sevillage-2-0/attachment/42-saturday-michelechrisfighting/)
 
 有时克里斯不得不给他的人上一两堂课(咳嗽)…但最终总是会得到大家的拥抱:
 
-[![41-Saturday-AWWWWW-HowSweet](img/468b08957044e9302a34b19578dcf7c5.png)T2】](https://www.social-engineer.org/general-blog/def-con-22-sevillage-2-0/attachment/41-saturday-awwwww-howsweet/)
+[![41-Saturday-AWWWWW-HowSweet](img/468b08957044e9302a34b19578dcf7c5.png)](https://www.social-engineer.org/general-blog/def-con-22-sevillage-2-0/attachment/41-saturday-awwwww-howsweet/)
 
 快结束了。
 
@@ -146,11 +146,11 @@ SEVillage 最初是一个来这里讨论、玩耍和参与所有社会工程的�
 
 真的，今年是我们做过的最好的 DEF CON 播客，它显示了我们有多开心。
 
-[![56-Sunday-JohnnyLongHandcuffs](img/d980cbbc28caa3e190f9b3610bf20ec4.png)T2】](https://www.social-engineer.org/general-blog/def-con-22-sevillage-2-0/attachment/56-sunday-johnnylonghandcuffs/)
+[![56-Sunday-JohnnyLongHandcuffs](img/d980cbbc28caa3e190f9b3610bf20ec4.png)](https://www.social-engineer.org/general-blog/def-con-22-sevillage-2-0/attachment/56-sunday-johnnylonghandcuffs/)
 
 不，真的，他很开心…我保证。🙂
 
-[![55-Sunday-CrewwithJohnny](img/0cbfc32bd83689d21815a26b94b4f915.png)T2】](https://www.social-engineer.org/general-blog/def-con-22-sevillage-2-0/attachment/55-sunday-crewwithjohnny/)
+[![55-Sunday-CrewwithJohnny](img/0cbfc32bd83689d21815a26b94b4f915.png)](https://www.social-engineer.org/general-blog/def-con-22-sevillage-2-0/attachment/55-sunday-crewwithjohnny/)
 
 那是和约翰尼·龙一起的塞维利亚摄制组——这里有一群很棒的人。****T3】****
 

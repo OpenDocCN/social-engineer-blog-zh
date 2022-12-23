@@ -5,7 +5,7 @@
 完成网上订单 。 填林 克出另一张登记表。 这些只是一些在线任务，我们很乐意让自动填充为我们完成信息。为什么要禁用浏览器的自动填充功能？最近，web 开发人员vil jamiKuosmanen发现了一个漏洞，该漏洞可以通过网络钓鱼将您存储的数据暴露给恶意用户。 在这种攻击中，会发送一封钓鱼邮件，要求目标填写网页上的表格。一旦目标填写了其中一个(可见)字段，浏览器就会自动填充页面上的 multip le 不可见字段( 从存储的自动填充数据 ) )。T30
 T32】T33】
 
-![Why You Should Disable Autofill on Your Browsers](img/2eb481f2c43989b150ac927c3fb39c3e.png "Why You Should Disable Autofill on Your Browsers")T2】
+![Why You Should Disable Autofill on Your Browsers](img/2eb481f2c43989b150ac927c3fb39c3e.png "Why You Should Disable Autofill on Your Browsers")
 
 以上是 的一个例子，你也可以在一个 [测试页面上自己测试一下。](https://anttiviljami.github.io/browser-autofill-phishing/) 有了这个，就有可能让攻击者获得你的地址、信用卡信息和其他敏感数据。 据 福布斯 密码保管员介绍，Last Pass 也容易受到 这个 漏洞的影响，可能会导致你在不知不觉中放弃自己的密码。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://www.social-engineer.com/vendors-educating-and-social-media-marketing/>
 
-![Vendors, educating, and social media marketing](img/a5bfde48aeb789930129b253a07e7820.png)T2】
+![Vendors, educating, and social media marketing](img/a5bfde48aeb789930129b253a07e7820.png)
 
 专业人士在提供建议时无意中透露了 哪些关于他们组织和自己的运营安全(op sec)的信息？ 成为你专业领域的知名教育家和 声音 是 通过 drawi ng 连接你自己、你的知识库、 和你的听众来有效完成的。通常 在 信息安全(InfoSec) 中，这涉及到分享一个其他人可以讲述的轶事或小故事，并强调在故事中看到的安全优势或改进领域。然而，即使是最老练的安全专家也应该警惕他们所提供的信息会被攻击者所利用。T34
 

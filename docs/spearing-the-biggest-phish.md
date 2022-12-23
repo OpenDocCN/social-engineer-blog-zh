@@ -6,7 +6,7 @@
 
 利用收集到的 OSI，攻击者可以发动一次成功的攻击。2012 年 6 月 11 日就是如此。据报道，黑客组织 UGNazi 获得了谷歌的 Mark Monitor 账户，并通过利用社会工程，说服 Mark Monitor 员工 Olga Bougri 将 Google.com 电子邮件地址重置为该组织的电子邮件[【电子邮件受保护】](/cdn-cgi/l/email-protection)
 
-[![](img/59df091f5f901def7e297faea18ae3a1.png "KDWja")T2】](https://www.social-engineer.org/social-engineering/spearing-the-biggest-phish/attachment/kdwja/)
+[![](img/59df091f5f901def7e297faea18ae3a1.png "KDWja")](https://www.social-engineer.org/social-engineering/spearing-the-biggest-phish/attachment/kdwja/)
 
 在维基百科上，MarkMonitor 被描述为“一家开发互联网品牌保护软件和服务的公司。…《财富 100 强》中有一半以上是 MarkMonitor 的客户，还有 AAA、脸书、谷歌和维基媒体基金会。它拥有用于域名管理、反欺诈、品牌保护和反盗版的软件产品。”MarkMonitor 自己的网站吹捧该公司是“在线品牌保护的全球领导者，MarkMonitor 提供先进的技术和专业知识来保护世界领先品牌的声誉和收入。”。
 

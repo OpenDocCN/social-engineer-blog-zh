@@ -8,7 +8,7 @@ Citadel 是宙斯木马、勒索软件、恐吓软件和社交网络的混合体
 
 它偷偷安装后，发送信号下载并安装名为 Reveton 的勒索软件。然后这会冻结受害者的计算机，并提供一个看起来非常合法的弹出窗口:
 
-[![](img/4ddc0f4c34d27f159c842125e99d4b24.png "police_trojan_screenshot")T2】](https://www.social-engineer.org/interesting-se-articles/citadel-trojan-uses-insidious-forms-of-social-engineering/attachment/police_trojan_screenshot/)
+[![](img/4ddc0f4c34d27f159c842125e99d4b24.png "police_trojan_screenshot")](https://www.social-engineer.org/interesting-se-articles/citadel-trojan-uses-insidious-forms-of-social-engineering/attachment/police_trojan_screenshot/)
 
 这个弹出窗口是[恐吓软件和勒索软件](https://www.social-engineer.org/framework/general-discussion/categories-social-engineers/hackers/ "Social Engineer Hackers")的一部分。它告诉受害者在他们的电脑上发现了儿童色情内容。它记录下他们的 IP 地址，并威胁要将此事报告给相关部门，除非他们支付“罚款”。与坐牢、失业和被贴上恋童癖的标签相比，区区 100 美元似乎微不足道，不是吗？
 

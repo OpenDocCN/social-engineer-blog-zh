@@ -2,7 +2,7 @@
 
 > 原文：<https://www.social-engineer.com/top-9-tips-to-avoid-being-socially-engineered-at-black-hat-defcon/>
 
-[![Top 9 tips to avoid being socially engineered](img/b57f8e8e77c40f06bbed883094c4cc36.png)T2】](https://www.social-engineer.com/wp-content/uploads/2013/07/safety-first1.jpg)
+[![Top 9 tips to avoid being socially engineered](img/b57f8e8e77c40f06bbed883094c4cc36.png)](https://www.social-engineer.com/wp-content/uploads/2013/07/safety-first1.jpg)
 
 又到了一年中的这个时候；黑帽和 DEF CON 就在拐角处。当我们都整装待发前往沙漠时，这里有一些提示可以让你免受社会工程的攻击。
 

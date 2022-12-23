@@ -21,11 +21,11 @@
 
 当我们按性别分解回答的人的百分比时。
 
-[![](img/7f84b5add48f211380319e9b18ef5cde.png "ByGender")T2】](https://www.social-engineer.org/polls/social-engineering-and-deception-whats-the-truth/attachment/bygender/)
+[![](img/7f84b5add48f211380319e9b18ef5cde.png "ByGender")](https://www.social-engineer.org/polls/social-engineering-and-deception-whats-the-truth/attachment/bygender/)
 
 没什么大惊小怪的，我们认为在这里会看到更多的男生比女生做出回应。然后我们按地理区域进行了细分:
 
-[![](img/40bddf6fda4e4b93836ba0cf4fae4048.png "ByCountry")T2】](https://www.social-engineer.org/polls/social-engineering-and-deception-whats-the-truth/attachment/bycountry/)
+[![](img/40bddf6fda4e4b93836ba0cf4fae4048.png "ByCountry")](https://www.social-engineer.org/polls/social-engineering-and-deception-whats-the-truth/attachment/bycountry/)
 
 我们看到了来自世界各地的优秀人才。
 
@@ -33,7 +33,7 @@
 
 (请击鼓)
 
-[![](img/7ecc11cfb472fca0d2cde99972651245.png "ByYesNo")T2】](https://www.social-engineer.org/polls/social-engineering-and-deception-whats-the-truth/attachment/byyesno/)
+[![](img/7ecc11cfb472fca0d2cde99972651245.png "ByYesNo")](https://www.social-engineer.org/polls/social-engineering-and-deception-whats-the-truth/attachment/byyesno/)
 
 抱歉，戴夫，但我想你必须在另一次投票中再试一次。但正如我所料，对于 60%以上的技术人员来说，SE 将涉及欺骗是一个事实。
 

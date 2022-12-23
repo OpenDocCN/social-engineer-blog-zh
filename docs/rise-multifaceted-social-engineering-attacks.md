@@ -6,7 +6,7 @@
 
 多方面的社会工程攻击究竟是如何执行的？
 
-[![multifacted_social_engineering](img/32e05090f793cf4aa0268b2339c8a4f3.png)T2】](https://www.social-engineer.com/wp-content/uploads/2015/02/multifacted_social_engineering.png)
+[![multifacted_social_engineering](img/32e05090f793cf4aa0268b2339c8a4f3.png)](https://www.social-engineer.com/wp-content/uploads/2015/02/multifacted_social_engineering.png)
 
 我们见过的一种方法是当攻击者发送流氓发票或其他形式的加载了恶意软件程序的附件。这些恶意软件程序允许攻击者窃取访问凭证、足够的敏感信息以进行外围入侵，或者通过滥用会计系统将资金转移出组织。为了确保附件被下载或发票被打开，攻击者通常会在电子邮件发出后的一分钟内打电话。打电话的人冒充权威人士，要求立即采取行动。这导致工作人员感到有义务遵守这一重要要求的高压局面。
 

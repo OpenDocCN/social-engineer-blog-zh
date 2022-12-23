@@ -29,11 +29,11 @@
 
 这是多少人的真实想法吗？让我们先来看看。这项调查主要覆盖美国，但让我们来看看我们的选民来自哪里的统计数据:
 
-[![Countries that Vote](img/7ae2991c2dd6e11746b924b978522c21.png "CountriesMay")T2】](https://www.social-engineer.org/polls/influence-with-out-deception-possible/attachment/countriesmay-2/)
+[![Countries that Vote](img/7ae2991c2dd6e11746b924b978522c21.png "CountriesMay")](https://www.social-engineer.org/polls/influence-with-out-deception-possible/attachment/countriesmay-2/)
 
 “其他”类别包括伯利兹、奥地利、菲律宾、沙特阿拉伯、印度、巴西、西班牙和希腊等国家，以及大约 15 个其他国家。这成千上万的投票是如何统计的？
 
-[![Results of May](img/df23a7b0f82097ce7eb36d062937911e.png "ResultsMay")T2】](https://www.social-engineer.org/polls/influence-with-out-deception-possible/attachment/resultsmay/)
+[![Results of May](img/df23a7b0f82097ce7eb36d062937911e.png "ResultsMay")](https://www.social-engineer.org/polls/influence-with-out-deception-possible/attachment/resultsmay/)
 
 是的，看起来现在 80%的投票者认为，如果不使用欺骗手段，很有可能，甚至很有可能影响某人采取不符合他们最大利益的行动。实话告诉你，玩笑归玩笑，这个答案是 80/20 分是有道理的。我们可以想到很多不使用欺骗就能影响他人的方法。
 

@@ -6,7 +6,7 @@
 
 现在的问题是，我们如何成功？让我们回顾一下有助于成功视觉的五个简单要点。
 
-[![Let’s Go Vishing](img/14ddcf0d87d15ace0283b540f40f0b8f.png)T2】](https://www.social-engineer.org/how-tos/lets-go-vishing/attachment/vishing/)
+[![Let’s Go Vishing](img/14ddcf0d87d15ace0283b540f40f0b8f.png)](https://www.social-engineer.org/how-tos/lets-go-vishing/attachment/vishing/)
 
 对于我们的第一点，让我们看看孙子经常被引用的一句话，“据说如果你了解你的敌人和了解你自己，你就不会在一百场战斗中陷入危险……”这是一句常见的陈词滥调，但在这种情况下非常正确。事先尽可能多地了解你的目标是关键。每一个小信息都可以在你的参与中保持价值。在通话过程中，收集、分类并准备好您的信息。
 

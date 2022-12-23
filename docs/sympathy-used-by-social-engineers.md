@@ -2,7 +2,7 @@
 
 > 原文：<https://www.social-engineer.com/sympathy-used-by-social-engineers/>
 
-[![social engineer sympathy](img/09ab2d914a606e1c362090195cca40f1.png)T2】](https://www.social-engineer.com/wp-content/uploads/2013/07/Afghan_girl_begging.jpg)
+[![social engineer sympathy](img/09ab2d914a606e1c362090195cca40f1.png)](https://www.social-engineer.com/wp-content/uploads/2013/07/Afghan_girl_begging.jpg)
 
 从街角到讲坛到恶意的社会工程师，总有人在恳求你的帮助。各种形式的媒体都充斥着要求你为某项事业、某个人或某群人捐献金钱或时间的广告。人类倾向于帮助有需要的人。恶意的社会工程师明白这一点，并乐于使用同情/帮助主题来与人们建立融洽的关系，并获得他们需要和想要的东西。乞丐、传教士、名人慈善机构和心怀恶意的人都用这种方式从他人那里得到想要的回应。
 

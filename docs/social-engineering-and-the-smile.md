@@ -2,7 +2,7 @@
 
 > 原文：<https://www.social-engineer.com/social-engineering-and-the-smile/>
 
-[![realvsfakesmile](img/6f9bb70dd936a03e0b5343873ad6b970.png)T2】](https://www.social-engineer.com/wp-content/uploads/2013/07/realvsfakesmile.jpeg)
+[![realvsfakesmile](img/6f9bb70dd936a03e0b5343873ad6b970.png)](https://www.social-engineer.com/wp-content/uploads/2013/07/realvsfakesmile.jpeg)
 
 诗人桑托什·卡尔瓦尔写道:“科学教人思考，而爱情教人微笑。”这是一种有用的观点，而且在很多方面都是正确的。作为社会工程师，我们知道科学对人际交流中微笑的有效性有很大贡献，不管这个等式中包含了多少爱。为了进一步探索这一点，我们将介绍一些经典的和最新的关于微笑的解剖和功能的研究。
 

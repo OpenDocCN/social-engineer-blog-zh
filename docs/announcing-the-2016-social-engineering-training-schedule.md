@@ -4,7 +4,7 @@
 
 事实证明，2015 年对于社会工程师广受欢迎且不断增长的培训课程来说是美妙的一年，因为我们已经在全球范围内吸引了超过 300 名参与者！以下是迄今为止发生的变化，以及 2016 年即将到来的变化！
 
-[![Untitled](img/d9e31594cfb859fcee00949cf426847a.png)T2】](https://www.social-engineer.com/wp-content/uploads/2015/09/Untitled.png)
+[![Untitled](img/d9e31594cfb859fcee00949cf426847a.png)](https://www.social-engineer.com/wp-content/uploads/2015/09/Untitled.png)
 
 社会工程已经并将继续成为许多引人注目的企业违规行为的主要原因。作为首屈一指的社会工程专家，凭借来自社会工程前线的丰富经验，我们精心制作了我们的产品，为 2016 年提供更加全面和专业的培训。
 

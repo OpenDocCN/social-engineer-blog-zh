@@ -50,7 +50,7 @@
 
 在角落里，克里斯正在讲授他直接从越轨者那里学到的手铐填隙法。
 
-[![DSCN1810](img/16752040275d30ab1a470c2fae910837.png)T2】](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn1810/)
+[![DSCN1810](img/16752040275d30ab1a470c2fae910837.png)](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn1810/)
 
 是时候了！微星即将推出，选手已经选定，比赛正在进行。以下是一些亮点:
 
@@ -58,7 +58,7 @@
 
 这是弥迦，基本上每个人的生命线。
 
-[![DSCN1973](img/499bd671a97df36d9536a09969d21eab.png)T2】](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn1973/)
+[![DSCN1973](img/499bd671a97df36d9536a09969d21eab.png)](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn1973/)
 
 最后我们的获胜者被授予，莱恩。他创下了最快的时间记录，并且聪明地让他的儿子在 Bally's 恶心的地板上爬行。好样的爸爸！
 
@@ -68,19 +68,19 @@
 
 与以往的 DEF CON 不同，今年早上 7:30 就有人在排队——不是开玩笑(我们有证据)。
 
-[![DSCN2005](img/b7d03d200573760175c25cde4f72399f.png)T2】](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2005/)
+[![DSCN2005](img/b7d03d200573760175c25cde4f72399f.png)](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2005/)
 
 队伍穿过电梯来到赌场。哇哦。再次感谢 DEF CON 与会者。
 
 今年我们的嘉宾评委是比利·博特赖特，一位天生的摇滚明星，他完全掌控了整个舞台:
 
-[![DSCN2008](img/e6d64ece1635d0f602ca59719bf03f01.png)T2】](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2008/)
+[![DSCN2008](img/e6d64ece1635d0f602ca59719bf03f01.png)](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2008/)
 
 上周五，我们宣布安全公司是今年的目标。然后，我们看到所有 7 名选手开始打电话，并在随后的问答中在场。虽然我们以前也这样做过，但今年是非常富有成效的一年。我们没有一个人缺席，每个参赛者都很早就到了，他们接到电话后就留下来了。这对我们来说是惊人的，这是我们第一次遇到这种情况。
 
 这是一些允许我们在周五给他们拍照的选手。
 
-[![DSCN2026](img/7fcdd359e33e0f14236ed60bcd4aac90.png)T2】](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2026/)
+[![DSCN2026](img/7fcdd359e33e0f14236ed60bcd4aac90.png)](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2026/)
 
 [![DSCN2045](img/ec1d2e45ef3b4ca77e6e25131f4a6e6d.png)](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2045/)[![DSCN2070](img/2378e31c3b1dd41045d09b3e59f02bbe.png)](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2070/)[![DSCN2084](img/8985e7af94fce1e8cb08f392966d2193.png)](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2084/)[![DSCN2093](img/14d004e91af6d1da9a4edd1ad4eaf5a8.png)T11】](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2093/)
 
@@ -90,23 +90,23 @@
 
 让我们开始的是石川友久的演讲，“文化差异会成为社会工程的障碍吗？”
 
-[![DSCN2116](img/21810e239d73f5c225f4bdb89a93c9e1.png)T2】](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2116/)
+[![DSCN2116](img/21810e239d73f5c225f4bdb89a93c9e1.png)](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2116/)
 
 这是一场精彩的演讲，让我们所有人都明白了一些很好的观点。
 
 接下来是霍恩斯比的爱恶作剧拉戴夫·肯尼迪与他的非常有趣和启发性的演讲，“绿野仙踪-通过欺骗描绘现实”
 
-[![DSCN2156](img/0eb07b190d77e961d9cbda50cf1e20f6.png)T2】](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2156/)
+[![DSCN2156](img/0eb07b190d77e961d9cbda50cf1e20f6.png)](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2156/)
 
 像往常一样，戴夫全场爆满，他是一个出色的演讲者。
 
 接下来，米歇尔几乎让克里斯哭了，因为她用她对他说过的最亲切的话介绍了他。(谢天谢地，它们会一直被记录下来)
 
-[![DSCN2158](img/b1a857ea969bf2170461f9189f5c60ec.png)T2】](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2158/)
+[![DSCN2158](img/b1a857ea969bf2170461f9189f5c60ec.png)](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2158/)
 
 然后克里斯提出，“7 个绝地心灵技巧:一言不发地影响你的目标。”
 
-[![DSCN2175](img/0a55c80ed68cb10c2e86d234b2c5633d.png)T2】](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2175/)
+[![DSCN2175](img/0a55c80ed68cb10c2e86d234b2c5633d.png)](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2175/)
 
 克里斯甚至有观众参与展示侵略性的握手:(要避免)
 
@@ -114,11 +114,11 @@
 
 接下来是罗伯特·安德森给出的一个非常有趣的话题，“美国审讯技术和社会工程”
 
-[![DSCN2205](img/f4cc09c7217e93467e8307a87ae40999.png)T2】](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2205/)
+[![DSCN2205](img/f4cc09c7217e93467e8307a87ae40999.png)](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2205/)
 
 我们的总结演讲是詹姆斯·鲍威尔，“你们被操纵了。”这个演讲一直持续到晚上 9 点
 
-[![DSCN2210](img/2eea6dab5c1538ae30e1218feb3414f3.png)T2】](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2210/)
+[![DSCN2210](img/2eea6dab5c1538ae30e1218feb3414f3.png)](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2210/)
 
 星期五嘎然而止，一点点灰质从我们的耳朵里漏了出来。我们枕头甜美柔软的触感太短暂了…..于是太阳早早升起，星期六开始了。
 
@@ -126,7 +126,7 @@
 
 令人惊讶的是，所有的父母和他们的小社会工程师在上午 9:20 准时出现在房间里(或者更早，你生病生病生病的父母)。Amanda 推出了 SECTF4Kids，给我们带来了迄今为止最困难的竞争。这是他们微笑的最后一张照片…
 
-[![DSCN2243](img/8acef4b0d9a92741ced8b3cbd29a3f45.png)T2】](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2243/)
+[![DSCN2243](img/8acef4b0d9a92741ced8b3cbd29a3f45.png)](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2243/)
 
 实际上，就在孩子们疯狂地通过 DEF CON 解决密码和撬锁后不久，我们的 SECTF 就要开始了。
 
@@ -138,29 +138,29 @@
 
 然后我们做了以前从未做过的事情，当场宣布了获胜者！！
 
-[![DSCN2375](img/115c8ee86dda3113b8648591926430a1.png)T2】](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2375/)
+[![DSCN2375](img/115c8ee86dda3113b8648591926430a1.png)](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2375/)
 
 再次祝贺克里斯和瑞秋。
 
 很快，我们又一次将 SECTF 转换到了人类轨道上，并以一个引人入胜的演讲开始:愤世嫉俗者 Winegard & Bethany Ward“人类黑客:你是最弱的一环。”
 
-[![DSCN2402](img/38eb036b0f9bc00b2062d87d9c6c33ca.png)T2】](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2402/)
+[![DSCN2402](img/38eb036b0f9bc00b2062d87d9c6c33ca.png)](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2402/)
 
 然后进入《国家地理》拍摄我们自己的杰森街，主题是“…我犯了一些严重的错误……
 
-[![DSCN2414](img/cd074e531e34fed302ff6e0ebbbdf2d1.png)T2】](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2414/)
+[![DSCN2414](img/cd074e531e34fed302ff6e0ebbbdf2d1.png)](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2414/)
 
 随后是克里斯的个人超级粉丝马蒂亚斯·博格的“诈骗电话-电话掉线”
 
-[![DSCN2431](img/1cfc140d1843e27a4be006823fdae3a9.png)T2】](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2431/)
+[![DSCN2431](img/1cfc140d1843e27a4be006823fdae3a9.png)](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2431/)
 
 然后我们请来了一位博士，用他那吸引所有人的无幻灯片演讲真正结束了这场演讲。史蒂文·扎尼《如何解除你的工作:革命、激进和委员会工程》
 
-[![DSCN2446](img/1c3e34a5f0bf27ba8b1b77caa476f63d.png)T2】](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2446/)
+[![DSCN2446](img/1c3e34a5f0bf27ba8b1b77caa476f63d.png)](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2446/)
 
 当晚，第一位来自新加坡的演讲者 Fadli Sidek 和他的主题“先进的社会工程技术和网络诈骗工业综合体的兴起”结束了演讲
 
-[![DSCN2459](img/a8014554a115a54579eb73f8ec3c6d9e.png)T2】](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2459/)
+[![DSCN2459](img/a8014554a115a54579eb73f8ec3c6d9e.png)](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2459/)
 
 我们很想说，在我们得到一些急需的休息后，但私人 SE 党是正确的，并运行到凌晨时分。
 
@@ -170,23 +170,23 @@
 
 到了周日，我们都累坏了，但不知何故，我们塞维利亚的女主角仍然很开心，超级积极。
 
-[![DSCN2470](img/e8b376803c5e4e24d28a6151ea5b2a21.png)T2】](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2470/)
+[![DSCN2470](img/e8b376803c5e4e24d28a6151ea5b2a21.png)](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2470/)
 
 我们的 SEPodcast 介绍了硬件黑客村代表和生物黑客村代表:
 
-[![DSCN2484](img/2476ef16f4f935744eafcc8d1eabb23b.png)T2】](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2484/)
+[![DSCN2484](img/2476ef16f4f935744eafcc8d1eabb23b.png)](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2484/)
 
 还有另一个播客首先，我们让米歇尔在播客上变成了一个电子人，让所有人都可以看到。
 
-[![DSCN2510](img/b90a3950f76da03ac2a8573d3f3377ba.png)T2】](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2510/)
+[![DSCN2510](img/b90a3950f76da03ac2a8573d3f3377ba.png)](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2510/)
 
 克里斯没有处理好 10 英寸 11 号针…
 
-[![DSCN2511](img/56a55a8c118729ae1591d180ecdb7be0.png)T2】](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2511/)
+[![DSCN2511](img/56a55a8c118729ae1591d180ecdb7be0.png)](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2511/)
 
 随着话题的变化，阿曼达·柏林带来了一些关于她的新书以及作为官方 DEF CON 摄影师的消息。或者更多的笑声，听听这里的播客吧！
 
-[![DSCN2520](img/f6d0050d0a8cd6736d8151d509df8e3c.png)T2】](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2520/)
+[![DSCN2520](img/f6d0050d0a8cd6736d8151d509df8e3c.png)](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2520/)
 
 播客一结束，我们就收拾行李，准备参加闭幕式，但在此之前，我们给第一名和第二名的孩子们颁奖:
 
@@ -194,15 +194,15 @@
 
 然后和我们的获奖者合影。第二名得主需要一点激励，Kaz 非常乐意提供:
 
-[![DSCN2539](img/dd3393d8439e24477c169ca3bd18746d.png)T2】](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2539/)
+[![DSCN2539](img/dd3393d8439e24477c169ca3bd18746d.png)](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2539/)
 
 最终，随着比赛的结束，克里斯向世界展示了全新的 SECTF 一等奖奖杯。
 
-[![DSCN2566](img/684c495deb3928551d2123a0b845ddd3.png)T2】](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2566/)
+[![DSCN2566](img/684c495deb3928551d2123a0b845ddd3.png)](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2566/)
 
 你可以看出他们非常开心。
 
-[![DSCN2575](img/377227b8b3807305f3b666db7e573ba9.png)T2】](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2575/)
+[![DSCN2575](img/377227b8b3807305f3b666db7e573ba9.png)](https://www.social-engineer.org/social-engineering/def-con-24-rise-sevillage-recap/attachment/dscn2575/)
 
 是的，我们知道这很长，我们也知道这里的信息比任何人都要多，但最终——这是迄今为止最好的服务。
 

@@ -6,7 +6,7 @@
 
 因此，我们将 social-engineer.org 设计成一个存放工具、脚本、视频、操作指南和每月[播客](https://www.social-engineer.org/category/podcast/)的地方，这些播客将从安全感知、审讯、欺骗检测、渗透测试、心理学、执法等更多领域展示社会工程的各个方面。
 
-[!["Education is the key to protecting yourself"](img/a443e180bb140b5238deab5d8e478285.png "social-engineer-wallpaper")T2】](https://www.social-engineer.org/resources/se-wp.jpg)
+[!["Education is the key to protecting yourself"](img/a443e180bb140b5238deab5d8e478285.png "social-engineer-wallpaper")](https://www.social-engineer.org/resources/se-wp.jpg)
 
 social-engineer.org 的目标是什么？
 

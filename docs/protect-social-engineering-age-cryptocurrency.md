@@ -2,7 +2,7 @@
 
 > 原文：<https://www.social-engineer.com/protect-social-engineering-age-cryptocurrency/>
 
-![Protect Yourself Against Social Engineering in the Age of Cryptocurrency](img/025e2259846aac529e41978b8dc6d495.png)T2】
+![Protect Yourself Against Social Engineering in the Age of Cryptocurrency](img/025e2259846aac529e41978b8dc6d495.png)
 
 【比特币】莱特币Ethereum【加密货币】已经迅速成为家喻户晓的名字，尽管很多家庭对加密货币背后的技术和 【区块链 并没有很深的理解。平心而论， 这种缺乏理解延伸到了 信息技术和信息安全领域的许多专业人士，以及金融领域的专业人士。比特币承载着加州淘金热的魅力和希望，或者在拉斯维加斯大获全胜的可能性。从某种程度上来说，比特币与 T42 也存在联系。[十几岁的比特币 百万富翁推动着炒作](https://www.cnbc.com/2017/12/15/teenage-bitcoin-millionaire-its-a-wonderful-time-to-buy-bitcoin.html) 现在是投资的时候了，一个拥有 [的人通过交易“crypto kitties 、](https://www.theverge.com/2017/12/13/16754266/cryptokitties-ethereum-ether-game-cats)本质上是 [网上的豆豆娃 和其他](https://www.cnbc.com/2017/12/06/meet-cryptokitties-the-new-digital-beanie-babies-selling-for-100k.html) [神秘的加密货币 等百万富翁化名下创办慈善基金会【松木】](https://qz.com/1160997/a-bitcoin-millionaire-is-giving-away-a-fortune-to-psychedelic-research-curing-aging-and-clean-water/) 难怪很多人都看好一夜暴富的加密货币[](https://economictimes.indiatimes.com/markets/stocks/news/in-line-with-rally-in-litecoin-bitcoin-this-cryptocurrency-soars-140-in-3-days/articleshow/62065889.cms)。 然而，把对这些新前景的炒作 与人们对驾驭这一浪潮的希望结合起来，再加上普遍缺乏了解， 和恶意的演员 利用社会工程技术 可能是最有可能将 一贯地 打击下去的 h 期间
 

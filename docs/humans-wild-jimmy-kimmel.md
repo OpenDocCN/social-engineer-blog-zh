@@ -2,7 +2,7 @@
 
 > 原文：<https://www.social-engineer.com/humans-wild-jimmy-kimmel/>
 
-[![390-kimmel25n-0424](img/7081150232d5a4b4833d3907088a2e71.png)T2】](https://www.social-engineer.com/wp-content/uploads/2013/10/390-kimmel25n-0424.jpg)
+[![390-kimmel25n-0424](img/7081150232d5a4b4833d3907088a2e71.png)](https://www.social-engineer.com/wp-content/uploads/2013/10/390-kimmel25n-0424.jpg)
 
 使我们成为社会性动物的人类的相同倾向也会使我们变得不诚实。想想 2013 年科切拉音乐节上的这些人，吉米·基梅尔在他的深夜脱口秀节目中揭露了这些人。这个视频(嵌入在下面)是一个很好的例子，说明我们天生渴望被别人认为是有知识的，即使我们不是。
 

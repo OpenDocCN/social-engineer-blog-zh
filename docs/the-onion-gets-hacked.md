@@ -6,7 +6,7 @@
 
 第一步:SEA 向记者和作家发送了一封受众有限的网络钓鱼邮件。这封邮件看起来像是来自华盛顿邮报的邮件，鼓励收件人查看链接的文章。
 
-[![The Onion Gets Hacked](img/c2fc7b8bac9c6a727a8ea072293ecca2.png)T2】](https://www.social-engineer.org/interesting-se-articles/the-onion-gets-hacked/attachment/onion-phishing-email/)
+[![The Onion Gets Hacked](img/c2fc7b8bac9c6a727a8ea072293ecca2.png)](https://www.social-engineer.org/interesting-se-articles/the-onion-gets-hacked/attachment/onion-phishing-email/)
 
 该链接没有链接到《华盛顿邮报》的合法文章，而是提示用户输入他们的谷歌账户凭证。因为这封邮件是从一个未知的外部地址发出的，没有多少人点击它(更不用说输入他们的凭证了)，但有一个人点击了。这就够了。
 

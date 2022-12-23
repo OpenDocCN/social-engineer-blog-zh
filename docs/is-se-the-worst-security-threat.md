@@ -22,11 +22,11 @@
 
 首先，我们的男女比例表明，我们需要 SE 世界的女性开始分享更多份额:
 
-[![](img/17b499857c85dee7ba2583aa9cd9a692.png "Male-Female")T2】](https://www.social-engineer.org/social-engineering/is-se-the-worst-security-threat/attachment/male-female/)
+[![](img/17b499857c85dee7ba2583aa9cd9a692.png "Male-Female")](https://www.social-engineer.org/social-engineering/is-se-the-worst-security-threat/attachment/male-female/)
 
 当然，正如我已经提到的，肯定的百分比超过了否定的百分比，但这是图表:
 
-[![](img/ce36817c15a09d6089e6c2ccda2be37d.png "Yes-No")T2】](https://www.social-engineer.org/social-engineering/is-se-the-worst-security-threat/attachment/yes-no/)
+[![](img/ce36817c15a09d6089e6c2ccda2be37d.png "Yes-No")](https://www.social-engineer.org/social-engineering/is-se-the-worst-security-threat/attachment/yes-no/)
 
 总的来说，86%的投票认为社会工程是当今安全的最大威胁。
 

@@ -72,41 +72,41 @@ Billy——Billy 是你能遇到的最鼓舞人心和最了不起的人之一。
 
 首先，我们发现的一件事是，如果你不让尼克有事做，这就是他对 X 先生所做的…
 
-[![2-WhatNickDoesToXWhenBored](img/5f37b5de1172aea104c4e1b4fd8cd944.png)T2】](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/2-whatnickdoestoxwhenbored/)
+[![2-WhatNickDoesToXWhenBored](img/5f37b5de1172aea104c4e1b4fd8cd944.png)](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/2-whatnickdoestoxwhenbored/)
 
 但我们没有问题，让他们都忙起来；以下是塞维利亚的一些场景:
 
-[![3-SECTFSetup](img/e138a8ef9a66503ac085ff8646051371.png)T2】](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/3-sectfsetup/)
+[![3-SECTFSetup](img/e138a8ef9a66503ac085ff8646051371.png)](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/3-sectfsetup/)
 
-[![4-HowManyEngineersToPutTogetherASign](img/8d18015987a04b1bd7fd142be02fcc03.png)T2】](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/4-howmanyengineerstoputtogetherasign-2/)
+[![4-HowManyEngineersToPutTogetherASign](img/8d18015987a04b1bd7fd142be02fcc03.png)](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/4-howmanyengineerstoputtogetherasign-2/)
 
-[![5-NickPuttingTogethertheBooth](img/08c2f99e8ea50cab157892f664120fd7.png)T2】](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/5-nickputtingtogetherthebooth-2/)
+[![5-NickPuttingTogethertheBooth](img/08c2f99e8ea50cab157892f664120fd7.png)](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/5-nickputtingtogetherthebooth-2/)
 
-[![6-AnnaandMicheleFoldingShirts](img/344f6c4328bd3d1d158d6e87e2a83363.png)T2】](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/6-annaandmichelefoldingshirts-2/)
+[![6-AnnaandMicheleFoldingShirts](img/344f6c4328bd3d1d158d6e87e2a83363.png)](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/6-annaandmichelefoldingshirts-2/)
 
 学生和居民范，伦纳德，也帮助了:
 
-[![9-EvenLeonardHelps](img/503cf99011ddc480b8049de918cc98f4.png)T2】](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/9-evenleonardhelps/)
+[![9-EvenLeonardHelps](img/503cf99011ddc480b8049de918cc98f4.png)](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/9-evenleonardhelps/)
 
-[![11-ReadyToLaunch](img/5cccc3442cce3f998407bb46e10c9ab5.png)T2】](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/11-readytolaunch/)
+[![11-ReadyToLaunch](img/5cccc3442cce3f998407bb46e10c9ab5.png)](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/11-readytolaunch/)
 
 设置好后，是时候开始打电话了…
 
-[![12-StartingCalls](img/b5ce651a805603de36399fc68660eb68.png)T2】](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/12-startingcalls/)
+[![12-StartingCalls](img/b5ce651a805603de36399fc68660eb68.png)](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/12-startingcalls/)
 
 我们总是有一个值得信赖的团队来帮助我们制作声音:
 
-[![14-JimTheSoundMan](img/b34ef4f0e943a937b28156d624af0d28.png)T2】](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/14-jimthesoundman/)
+[![14-JimTheSoundMan](img/b34ef4f0e943a937b28156d624af0d28.png)](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/14-jimthesoundman/)
 
 成功了吗？这是这个房间在发布几个小时后的样子:
 
-[![18-SEVillageDay1](img/90033ec79a93bb349445285b9dff33b3.png)T2】](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/18-sevillageday1/)
+[![18-SEVillageDay1](img/90033ec79a93bb349445285b9dff33b3.png)](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/18-sevillageday1/)
 
 一些参赛者也让我们在展台上拍了一些很棒的照片:
 
-[![13-Contestant](img/7d3350fd984385da1185cf481fca51a8.png)T2】](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/13-contestant/)
+[![13-Contestant](img/7d3350fd984385da1185cf481fca51a8.png)](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/13-contestant/)
 
-[![21-ContestantLilly](img/593a0f8ef87fabace96e3a1015d25731.png)T2】](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/21-contestantlilly/)
+[![21-ContestantLilly](img/593a0f8ef87fabace96e3a1015d25731.png)](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/21-contestantlilly/)
 
 [![20-ContestantDan](img/301ed0776685d170a72227962b583820.png) ](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/20-contestantdan/) [ ![16-Contestant](img/545497f232e48a934dec057fff766d30.png)](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/16-contestant/)
 
@@ -114,19 +114,19 @@ Billy——Billy 是你能遇到的最鼓舞人心和最了不起的人之一。
 
 我们今年引入了一个新功能——护臂(针对 SECTF4Kids ):当小孩子试图完成任务时，团队成员会很乐意用改进的 nerf 枪砸他们的头。
 
-[![23-OurSnipersArmed](img/590dafa27947897f54954fb207ed8369.png)T2】](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/23-oursnipersarmed/)
+[![23-OurSnipersArmed](img/590dafa27947897f54954fb207ed8369.png)](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/23-oursnipersarmed/)
 
 Michele 和 Amanda 今年管理着 4 个孩子，看看他们从 tortu 得到的快乐……呃……教育小孩子
 
-[![25-YourGameMakers](img/ca749f4643c5b9658df776cf99cce4b6.png)T2】](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/25-yourgamemakers/)
+[![25-YourGameMakers](img/ca749f4643c5b9658df776cf99cce4b6.png)](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/25-yourgamemakers/)
 
 在我们解散了父母和孩子之后，我们在塞维利亚进行了第一次演讲，乔丹·哈宾格:
 
-[![26-JordanSpeech1](img/c082bd5a267c8b97255c3d2e71d85b83.png)T2】](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/26-jordanspeech1/)
+[![26-JordanSpeech1](img/c082bd5a267c8b97255c3d2e71d85b83.png)](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/26-jordanspeech1/)
 
 接下来是我们的好友戴夫·肯尼迪的房间:
 
-[![28-DavesSpeech](img/0ccc771b7a76119df6b07beed8b1f5d5.png)T2】](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/28-davesspeech/)
+[![28-DavesSpeech](img/0ccc771b7a76119df6b07beed8b1f5d5.png)](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/28-davesspeech/)
 
 ## 第二天——更多的乐趣
 
@@ -138,7 +138,7 @@ Michele 和 Amanda 今年管理着 4 个孩子，看看他们从 tortu 得到的
 
 当我们有一位女士没有出现时，这位选手主动请缨…她站了出来，在 25 分钟内，她就进入了摊位，并震撼了它！
 
-[![32-LastMinuteContestant](img/652464f69b52169352b3f7081b705432.png)T2】](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/32-lastminutecontestant/)
+[![32-LastMinuteContestant](img/652464f69b52169352b3f7081b705432.png)](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/32-lastminutecontestant/)
 
 在第二天的通话中，我们让孩子们偷偷溜进来，试图通过将他们最后的线索放在一个盒子里来完成他们的试验，然后被我们的 nerf 专家狙击:
 
@@ -152,19 +152,19 @@ Michele 和 Amanda 今年管理着 4 个孩子，看看他们从 tortu 得到的
 
 今年我们喜欢的是这个房间是如何活过来帮助被困的参赛者…这里是永远乐于助人的雪莉…
 
-[![36-TheEverHelpfulSherry](img/ce294d3573430d9efcf67346e0b54244.png)T2】](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/36-theeverhelpfulsherry/)
+[![36-TheEverHelpfulSherry](img/ce294d3573430d9efcf67346e0b54244.png)](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/36-theeverhelpfulsherry/)
 
 更多照片来自第二天拥挤的服务…
 
-[![42-SECTFDay2](img/c241c00f08297658c8ef9d41718bef2f.png)T2】](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/42-sectfday2/)
+[![42-SECTFDay2](img/c241c00f08297658c8ef9d41718bef2f.png)](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/42-sectfday2/)
 
 那只是在里面；外面，有人在等着进来:
 
-[![43-LineForSEVillage](img/8ea9099a22713a94c99f87eb36423e66.png)T2】](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/43-lineforsevillage/)
+[![43-LineForSEVillage](img/8ea9099a22713a94c99f87eb36423e66.png)](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/43-lineforsevillage/)
 
 第二天以凯文·米特尼克的精彩演讲结束:
 
-[![45-Mitnick](img/f1ccbdc0e4e3b94372d4d8eec68e45cb.png)T2】](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/45-mitnick/)
+[![45-Mitnick](img/f1ccbdc0e4e3b94372d4d8eec68e45cb.png)](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/45-mitnick/)
 
 然后，在我们前往第三天… [![46-DoubleCs](img/da6c3e396ff1eefadfe6a4bf3d1d1d1a.png)](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/46-doublecs/) 的途中，吃了一顿急需的美餐
 
@@ -174,21 +174,21 @@ Michele 和 Amanda 今年管理着 4 个孩子，看看他们从 tortu 得到的
 
 阿波罗的到来给了 DEF CON 将我们带到第 4 轨房间的动力。再次感谢那些非常非常酷的人，他们接受了这个交换:
 
-[![48-NiceGuysMoved](img/d696d49e75cfc56dda7eb36d87d71db4.png)T2】](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/48-niceguysmoved/)
+[![48-NiceGuysMoved](img/d696d49e75cfc56dda7eb36d87d71db4.png)](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/48-niceguysmoved/)
 
 现在是时候了；阿波罗、米歇尔和我正在做一个关于“骗子头脑中的 60 分钟”的联合演示——结果非常即兴，因为 3 个放映机同时死亡，阿波罗只是因为这个而浪费了大部分时间……哇，这个家伙太棒了！！
 
-[![48-ApolloChrisMichele](img/23ff7a1186258d746d889303be5049f5.png)T2】](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/48-apollochrismichele/)
+[![48-ApolloChrisMichele](img/23ff7a1186258d746d889303be5049f5.png)](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/48-apollochrismichele/)
 
 [![51-ApolloAwesome](img/8f6aafec61b98af47520ae23fdc36d56.png) ](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/51-apolloawesome/) [ ![52-ApolloSwipedHisWallet](img/dffe77e38bfc4a61963306d5242d9a6b.png)](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/52-apolloswipedhiswallet/)
 
 演讲结束了，(这不仅仅是谣言)我们有时间带威尔·史密斯四处逛逛。他是来听骗子演讲的。他参观了供应商区，然后我们有机会聊了一会儿。他走后，阿波罗回到会议室，我们道别，在等待阿波罗回来的时候，我们坐着想…“今天真的发生了吗？”
 
-[![84-ExhaustedTeam](img/4ec8eae90a90c1e2392a283e782d922b.png)T2】](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/84-exhaustedteam/)
+[![84-ExhaustedTeam](img/4ec8eae90a90c1e2392a283e782d922b.png)](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/84-exhaustedteam/)
 
 但它发生了，克里斯不能让阿波罗不尝尝他自己的药:
 
-[![87-TeamWithApollo-Pickpocketing](img/3d8154076e098e1e6412cba2d585b007.png)T2】](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/87-teamwithapollo-pickpocketing/)
+[![87-TeamWithApollo-Pickpocketing](img/3d8154076e098e1e6412cba2d585b007.png)](https://www.social-engineer.org/social-engineering/social-engineer-and-def-con-21/attachment/87-teamwithapollo-pickpocketing/)
 
 从右到左，从后到前
 

@@ -6,7 +6,7 @@
 
 在 SECOM，我们习惯于在家办公，但也有客户不习惯。他们处在一个新的环境中，[面临着新的挑战和利益](https://www.social-engineer.org/newsletter/working-remotely-cybersecurity-tips-to-work-from-home-safely/)。这将迫使他们以新的方式探索和处理事情。依靠监控软件和附近管理人员来捕捉不良电话和对话的公司可能会发现很难跟上来自世界各地的攻击。没有对员工进行最新培训的公司更容易成为受害者。这些攻击让他们的员工不知所措，甚至直接进入了他们的家中。
 
-### **![vishing](img/25b3bcbf7c2db9d12b1d0a888c5924bb.png)T2】**
+### **![vishing](img/25b3bcbf7c2db9d12b1d0a888c5924bb.png)**
 
 ## 渔业的进步和影响
 

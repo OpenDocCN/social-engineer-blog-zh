@@ -2,7 +2,7 @@
 
 > 原文：<https://www.social-engineer.com/fear-feeds-scammers/>
 
-[![fear feeds the scammers](img/75ba2b18d69656756c80eb45cc332064.png)T2】](https://www.social-engineer.com/wp-content/uploads/2014/01/images-2.jpeg)
+[![fear feeds the scammers](img/75ba2b18d69656756c80eb45cc332064.png)](https://www.social-engineer.com/wp-content/uploads/2014/01/images-2.jpeg)
 
 恐惧症 是一些人在暴露于某些情境或物体时所经历的非理性恐惧。与心理健康专家不同，骗子希望你变得麻木，这样他们就可以更容易地利用你。
 

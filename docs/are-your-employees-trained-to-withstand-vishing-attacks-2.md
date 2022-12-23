@@ -4,7 +4,7 @@
 
 虽然员工越来越了解网络钓鱼攻击给组织带来的威胁，但攻击者现在正在结合其他类型的媒介来危害他们的目标。我们看到越来越多的是电话。这个矢量叫做视觉。**T2】**
 
- **[![Are your employees trained to withstand vishing attacks?](img/49d9104c25846aa599c396a0c46c9120.png)T2】](https://www.social-engineer.com/wp-content/uploads/2015/07/vishing.jpg)
+ **[![Are your employees trained to withstand vishing attacks?](img/49d9104c25846aa599c396a0c46c9120.png)](https://www.social-engineer.com/wp-content/uploads/2015/07/vishing.jpg)
 
 ### 什么是视觉？
 

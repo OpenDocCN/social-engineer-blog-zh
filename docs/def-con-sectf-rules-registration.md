@@ -2,7 +2,7 @@
 
 > 原文：<https://www.social-engineer.org/event-updates/defcon-updates/def-con-sectf-rules-registration/>
 
-[![sectf-banner-v7-rgb](img/bc4d8766521f6962a1d5cceab2203684.png)T2】](https://www.social-engineer.org/ctf/def-con-sectf-rules-registration/attachment/sectf-banner-v7-rgb/)
+[![sectf-banner-v7-rgb](img/bc4d8766521f6962a1d5cceab2203684.png)](https://www.social-engineer.org/ctf/def-con-sectf-rules-registration/attachment/sectf-banner-v7-rgb/)
 
 **(这意味着 ***这一页上的每一个* *字*** )阅读完这一页再继续——规则很重要！**
 

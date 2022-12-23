@@ -22,7 +22,7 @@
 
 ![](img/b2b2488ca6c6661e4163135f9dee7b7c.png)![](img/6bcb99aa72861bc7ab7cb694f72150dd.png)![picture6](img/65390cc8241a8bb5114276621b959b32.png)![picture7](img/cc9e516c2cccbfd5d98703994fb12332.png)![picture8](img/310b76fa6858bf5d214f3fb3d83f36c9.png)![picture9](img/d409302941cfac599eefb352bd2600b8.png)![picture10](img/36500473a7c030763508dc00810ad2e7.png)![picture11](img/adc72845ed275971fbd2073c06a540d5.png)![picture12](img/f2b1d722a7dffe2715084079fd333f61.png)![picture13](img/3cfbeea76a810fbb73f6916af1e0f42c.png)![picture14](img/d196ef5f7a1335ab911bd0fc43e07e17.png)![picture15](img/11a0ee192bc1dce1ba780d869a751ee3.png)![picture16](img/fa9d01476f91439f65f70318fd6b8476.png)
 
-![picture17](img/1843c179443e69ab0c1b0ca489d0fcbe.png)![picture18](img/113551bb6b4e04433dfeccc84661549d.png)T2】
+![picture17](img/1843c179443e69ab0c1b0ca489d0fcbe.png)![picture18](img/113551bb6b4e04433dfeccc84661549d.png)
 
 活动本身很棒。[奥兰多树之旅](https://www.orlandotreetrek.com/)是一系列悬挂在树上高达 40 英尺的绳索和障碍物，需要身体技巧和团队合作才能成功通过每一项挑战。为了让事情变得有趣，我们的辅导员让我们戴上眼罩，依靠队友的口头指示。不可思议的是，当没有其他人在旁边的时候，卡兹的所有伙伴都选择了坠落*。很奇怪，对吧？*
 
